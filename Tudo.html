@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Teste JSON Local</title>
+</head>
+<body>
+  <h1>Equipamentos por Nível</h1>
+  <div id="equipamentos"></div>
+
+  <!-- JSON embutido no HTML -->
+  <script id="json-equipamentos" type="application/json">
+    {
+      "1": [
+        { "nome": "Espada de Iniciante", "ataque": 5, "defesa": 1 },
+        { "nome": "Armadura de Couro", "ataque": 1, "defesa": 4 }
+      ],
+      "5": [
+        { "nome": "Espada Curta", "ataque": 10, "defesa": 2 },
+        { "nome": "Armadura de Ferro", "ataque": 2, "defesa": 8 }
+      ]
+    }
+  </script>
+
+  <script>
+    const jsonText = document.getElementById('json-equipamentos').textContent;
+    const dados = JSON.parse(jsonText);
+
+    const container = document.getElementById('equipamentos');
+
+    for (const nivel in dados) {
+      const titulo = document.createElement('h2');
+      titulo.textContent = `Nível ${nivel}`;
+      container.appendChild(titulo);
+
+      dados[nivel].forEach(equip => {
+        const item = document.createElement('p');
+        item.textContent = `${equip.nome} — Ataque: ${equip.ataque}, Defesa: ${equip.defesa}`;
+        container.appendChild(item);
+      });
+    }
+  </script>
+</body>
+</html>

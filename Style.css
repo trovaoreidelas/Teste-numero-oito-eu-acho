@@ -1,0 +1,204 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+background-color: #922
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #111;
+  padding: 10px 5px;
+  position: relative;
+  top: -40px;
+  right: 0.5px;
+  padding: 15px;
+}
+
+.logo {
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.menu-toggle {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 30px;
+  cursor: pointer;
+  display: block;
+  
+}
+
+/* menu escondido por padrão */
+.menu {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  background-color: #111;
+  position: absolute;
+  top: 60px;
+  right: 1px;
+  padding: 10px;
+  border-radius: 8px;
+  opacity: 0;
+  pointer-events: none;
+  transform: translateX(-50px);
+  transition: opacity 0.4s ease, transform 0.4s ease;
+  z-index: 999;
+}
+
+/* quando menu é ativado */
+.menu.show {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateY(0);
+}
+
+.menu li {
+  margin: 10px 0;
+}
+
+.menu li a {
+  color: white;
+  text-decoration: none;
+}
+
+/* remove controle automático no desktop */
+@media screen and (min-width: 768px) {
+  .menu {
+    flex-direction: row;
+    top: 60px;
+    right: 40px;
+    width: max-content;
+  }
+
+  .menu li {
+    margin: 0 10px;
+  }
+}
+
+/* ossso */
+
+}
+/* os tress tracinhos */
+.menu-toggle {
+  font-size: 2rem;
+  background: none;
+  border: none;
+  color: white;
+  cursor: pointer;
+  display: block;
+}
+
+
+.menu li a {
+  display: block;
+  padding: 15px 20px;
+  color: #fff;
+  text-decoration: none;
+  border-top: 1px solid #222;
+}
+
+.menu li a:hover {
+  background-color: #222;
+}
+
+.menu.ativo {
+  max-height: 500px; /* valor grande o suficiente pro conteúdo */
+  opacity: 1;
+}
+
+
+
+footer {
+  background: #222;
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+}
+/* Slider */
+.slider {
+  position: relative;
+  max-width: 1000px;
+  margin: 2rem auto;
+  overflow: hidden;
+}
+
+.slides {
+  display: flex;
+  transition: transform 0.4s ease-in-out;
+}
+
+.slide {
+  min-width: 100%;
+  display: none;
+  border-radius: 8px;
+  border: 5px solid #fff;
+}
+
+
+
+.slide.ativo {
+  display:  block;
+}
+
+.seta {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(0,0,0,0.2);
+  color: white;
+  font-size: 0.8rem;
+  border: none;
+  padding: 0.5rem 0.5rem;
+  cursor: pointer;
+  z-index: 10;
+  border-radius: 5px;
+}
+
+.seta:hover {
+  background: rgba(0,0,0,0.7);
+}
+
+.seta.esquerda {
+  left: 10px;
+}
+
+.seta.direita {
+  right: 10px;
+}
+#menu {
+  position: absolute; /* ou fixed, se for o caso */
+  top: 60px; /* ou onde começa o menu */
+  left: 200;
+  background-color: #222;
+  width: 100%;
+  z-index: 999; /* valor alto pra ficar na frente de tudo */
+}
+ /* indicado da imagem */
+ .indicadores {
+  text-align: center;
+  margin-top: -25px;
+}
+
+.indicadores .dot {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  margin: 0 5px;
+  background-color: #fff;
+  border-radius: 25%;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.indicadores .dot.ativo {
+  background-color: #922;
+}

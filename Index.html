@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Meu Site</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header>
+    <nav class="navbar">
+      <div class="logo">Meu Site</div>
+      <button class="menu-toggle" onclick="toggleMenu()">&#9776;</button>
+      <ul class="menu" id="menu">
+        <li><a href="#">Início</a></li>
+        <li><a href="calculadora.html">Calculadora</a></li>
+
+        <li><a href="#">Recursos</a></li>
+        <li><a href="#">Histórias</a></li>
+        <li><a href="#">Sobre</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+   
+
+    
+    <section class="slider" id="slides">
+      
+      <div class="slides">
+        <img src="imagems/imagem1.jpg" class="slide ativo" alt="Slide 1">
+        
+        <img src="imagems/imagem2.jpg" class="slide" alt="Slide 2">
+        
+        <img src="imagems/imagem3.jpg" class="slide" alt="Slide 3">
+      </div>
+      
+      
+      <button class="seta esquerda" onclick="mudarSlide('slides', -1)">❮</button>
+      <button class="seta direita" onclick="mudarSlide('slides', 1)">❯</button>
+      <div class="indicadores"></div>
+    </section>
+
+    <section style="text-align: center; padding: 2rem 1rem;">
+      <h1>Bem-vindo ao site!</h1>
+      <p>Aqui é onde seu conteúdo principal vai aparecer.</p>
+    </section>
+    
+     <section class="slider" id="slides1">
+      <div class="slides">
+        <img src="imagems/imagem1.jpg" class="slide ativo" alt="Slide 1">
+        
+        <img src="imagems/imagem2.jpg" class="slide" alt="Slide 2">
+        
+        <img src="imagems/imagem3.jpg" class="slide" alt="Slide 3">
+      </div>
+      
+      
+      <button class="seta esquerda" onclick="mudarSlide('slides1', -1)">❮</button>
+      <button class="seta direita" onclick="mudarSlide('slides1', 1)">❯</button>
+      <div class="indicadores"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Meu Site. Todos os direitos reservados.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

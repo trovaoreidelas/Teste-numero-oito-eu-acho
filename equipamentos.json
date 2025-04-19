@@ -1,0 +1,726 @@
+{
+    "nivel_50": [
+        {
+            "nome": "Ancient Paladin Armor",
+            "nivel": 50,
+            "status": {
+                "vida": 3841,
+                "ataque": 1182,
+                "armadura": 2955,
+                "evasao": 887,
+                "critico": 887,
+                "aceleracao": 0
+            },
+            "id": "nivel_50_undefined_00"
+        },
+        {
+            "nome": "Ancient Paladin Boots",
+            "nivel": 50,
+            "status": {
+                "vida": 0,
+                "ataque": 0,
+                "armadura": 1773,
+                "evasao": 2069,
+                "critico": 0,
+                "aceleracao": 1773
+            },
+            "id": "nivel_50_undefined_01"
+        },
+        {
+            "nome": "Ancient Paladin's Blood Red Cloak",
+            "nivel": 50,
+            "status": {
+                "vida": 0,
+                "ataque": 0,
+                "armadura": 0,
+                "evasao": 1182,
+                "critico": 2364,
+                "aceleracao": 2364
+            },
+            "id": "nivel_50_undefined_02"
+        },
+        {
+            "nome": "Ancient Paladin Gauntlets",
+            "nivel": 50,
+            "status": {
+                "vida": 1182,
+                "ataque": 1182,
+                "armadura": 0,
+                "evasao": 0,
+                "critico": 591,
+                "aceleracao": 1773
+            },
+            "id": "nivel_50_undefined_03"
+        },
+        {
+            "nome": "Ancient Paladin Pauldrons",
+            "nivel": 50,
+            "status": {
+                "vida": 591,
+                "ataque": 591,
+                "armadura": 1773,
+                "evasao": 0,
+                "critico": 1773,
+                "aceleracao": 0
+            },
+            "id": "nivel_50_undefined_04"
+        },
+        {
+            "nome": "Azurecrest Armor Alpha",
+            "nivel": 50,
+            "status": {
+                "vida": 2659,
+                "ataque": 2364,
+                "armadura": 2955,
+                "evasao": 887,
+                "critico": 877,
+                "aceleracao": 0
+            },
+            "id": "nivel_50_undefined_05"
+        },
+        {
+            "nome": "Azurecrest Belt",
+            "nivel": 50,
+            "status": {
+                "vida": 0,
+                "ataque": 0,
+                "armadura": 887,
+                "evasao": 1773,
+                "critico": 0,
+                "aceleracao": 1773
+            },
+            "id": "nivel_50_undefined_06"
+        },
+        {
+            "nome": "Azurecrest Boots",
+            "nivel": 50,
+            "status": {
+                "vida": 0,
+                "ataque": 0,
+                "armadura": 887,
+                "evasao": 2955,
+                "critico": 0,
+                "aceleracao": 1773
+            },
+            "id": "nivel_50_undefined_07"
+        },
+        {
+            "nome": "Azurecrest Cape",
+            "nivel": 50,
+            "status": {
+                "vida": 0,
+                "ataque": 0,
+                "armadura": 0,
+                "evasao": 1182,
+                "critico": 2364,
+                "aceleracao": 2364
+            },
+            "id": "nivel_50_undefined_08"
+        },
+        {
+            "nome": "Azurecrest Gauntlets",
+            "nivel": 50,
+            "status": {
+                "vida": 591,
+                "ataque": 1182,
+                "armadura": 0,
+                "evasao": 0,
+                "critico": 591,
+                "aceleracao": 2364
+            },
+            "id": "nivel_50_undefined_09"
+        },
+        {
+            "nome": "Azurecrest Pauldrons",
+            "nivel": 50,
+            "status": {
+                "vida": 296,
+                "ataque": 887,
+                "armadura": 1773,
+                "evasao": 0,
+                "critico": 1773,
+                "aceleracao": 0
+            },
+            "id": "nivel_50_undefined_10"
+        },
+        {
+            "nome": "Azurecrest Armor Beta",
+            "nivel": 50,
+            "status": {
+                "vida": 2659,
+                "ataque": 2364,
+                "armadura": 2069,
+                "evasao": 1773,
+                "critico": 877,
+                "aceleracao": 0
+            },
+            "id": "nivel_50_undefined_11"
+        },
+        {
+            "nome": "Azurecrest Belt",
+            "nivel": 50,
+            "status": {
+                "vida": 0,
+                "ataque": 0,
+                "armadura": 887,
+                "evasao": 1773,
+                "critico": 0,
+                "aceleracao": 1773
+            },
+            "id": "nivel_50_undefined_12"
+        },
+        {
+            "nome": "Azurecrest Boots",
+            "nivel": 50,
+            "status": {
+                "vida": 0,
+                "ataque": 0,
+                "armadura": 887,
+                "evasao": 2955,
+                "critico": 0,
+                "aceleracao": 1773
+            },
+            "id": "nivel_50_undefined_13"
+        },
+        {
+            "nome": "Azurecrest Cape",
+            "nivel": 50,
+            "status": {
+                "vida": 0,
+                "ataque": 0,
+                "armadura": 0,
+                "evasao": 1182,
+                "critico": 2364,
+                "aceleracao": 2364
+            },
+            "id": "nivel_50_undefined_14"
+        },
+        {
+            "nome": "Azurecrest Gauntlets",
+            "nivel": 50,
+            "status": {
+                "vida": 591,
+                "ataque": 1182,
+                "armadura": 0,
+                "evasao": 0,
+                "critico": 591,
+                "aceleracao": 2364
+            },
+            "id": "nivel_50_undefined_15"
+        },
+        {
+            "nome": "Azurecrest Pauldrons",
+            "nivel": 50,
+            "status": {
+                "vida": 296,
+                "ataque": 887,
+                "armadura": 1773,
+                "evasao": 0,
+                "critico": 1773,
+                "aceleracao": 0
+            },
+            "id": "nivel_50_undefined_16"
+        },
+        {
+            "nome": "Clawgrah's Chitin",
+            "nivel": 50,
+            "status": {
+                "vida": 2659,
+                "ataque": 2364,
+                "armadura": 2069,
+                "evasao": 887,
+                "critico": 1773,
+                "aceleracao": 0
+            },
+            "id": "nivel_50_undefined_17"
+        },
+        {
+            "nome": "Clawgrah's Waist",
+            "nivel": 50,
+            "status": {
+                "vida": 0,
+                "ataque": 0,
+                "armadura": 2659,
+                "evasao": 887,
+                "critico": 0,
+                "aceleracao": 887
+            },
+            "id": "nivel_50_undefined_18"
+        },
+        {
+            "nome": "Clawgrah's Trodders",
+            "nivel": 50,
+            "status": {
+                "vida": 0,
+                "ataque": 0,
+                "armadura": 1773,
+                "evasao": 2069,
+                "critico": 0,
+                "aceleracao": 1773
+            },
+            "id": "nivel_50_undefined_19"
+        },
+        {
+            "nome": "Clawgrah's Grips",
+            "nivel": 50,
+            "status": {
+                "vida": 591,
+                "ataque": 1182,
+                "armadura": 0,
+                "evasao": 0,
+                "critico": 1182,
+                "aceleracao": 1773
+            },
+            "id": "nivel_50_undefined_20"
+        },
+        {
+            "nome": "Clawgrah's Helm",
+            "nivel": 50,
+            "status": {
+                "vida": 1478,
+                "ataque": 591,
+                "armadura": 2069,
+                "evasao": 887,
+                "critico": 0,
+                "aceleracao": 0
+            },
+            "id": "nivel_50_undefined_21"
+        },
+        {
+            "nome": "Clawgrah's Plates",
+            "nivel": 50,
+            "status": {
+                "vida": 296,
+                "ataque": 887,
+                "armadura": 887,
+                "evasao": 0,
+                "critico": 2659,
+                "aceleracao": 0
+            },
+            "id": "nivel_50_undefined_22"
+        },
+        {
+            "nome": "Plate of the Dreadrunner",
+            "nivel": 50,
+            "status": {
+                "vida": 3206,
+                "ataque": 1603,
+                "armadura": 2485,
+                "evasao": 1924,
+                "critico": 1924,
+                "aceleracao": 0
+            },
+            "id": "nivel_50_undefined_23"
+        },
+        {
+            "nome": "Belt of the Dreadrunner",
+            "nivel": 50,
+            "status": {
+                "vida": 0,
+                "ataque": 0,
+                "armadura": 1203,
+                "evasao": 1924,
+                "critico": 0,
+                "aceleracao": 1924
+            },
+            "id": "nivel_50_undefined_24"
+        },
+        {
+            "nome": "Greaves of the Dreadrunner",
+            "nivel": 50,
+            "status": {
+                "vida": 0,
+                "ataque": 0,
+                "armadura": 1203,
+                "evasao": 3206,
+                "critico": 0,
+                "aceleracao": 1924
+            },
+            "id": "nivel_50_undefined_25"
+        },
+        {
+            "nome": "Cape of the Dreadrunner",
+            "nivel": 50,
+            "status": {
+                "vida": 0,
+                "ataque": 0,
+                "armadura": 0,
+                "evasao": 2565,
+                "critico": 1603,
+                "aceleracao": 2565
+            },
+            "id": "nivel_50_undefined_26"
+        },
+        {
+            "nome": "Gauntlets of the Dreadrunner",
+            "nivel": 50,
+            "status": {
+                "vida": 802,
+                "ataque": 802,
+                "armadura": 0,
+                "evasao": 0,
+                "critico": 1283,
+                "aceleracao": 2565
+            },
+            "id": "nivel_50_undefined_27"
+        },
+        {
+            "nome": "Visage of the Dreadrunner",
+            "nivel": 50,
+            "status": {
+                "vida": 1122,
+                "ataque": 1283,
+                "armadura": 1523,
+                "evasao": 1924,
+                "critico": 0,
+                "aceleracao": 0
+            },
+            "id": "nivel_50_undefined_28"
+        },
+        {
+            "nome": "Pauldrons of the Dreadrunner",
+            "nivel": 50,
+            "status": {
+                "vida": 401,
+                "ataque": 962,
+                "armadura": 1203,
+                "evasao": 0,
+                "critico": 2885,
+                "aceleracao": 0
+            },
+            "id": "nivel_50_undefined_29"
+        },
+        {
+            "nome": "Plate of the Sacred Wind",
+            "nivel": 50,
+            "status": {
+                "vida": 3206,
+                "ataque": 1603,
+                "armadura": 2485,
+                "evasao": 1924,
+                "critico": 1924,
+                "aceleracao": 0
+            },
+            "id": "nivel_50_undefined_30"
+        },
+        {
+            "nome": "Belt of the Sacred Wind",
+            "nivel": 50,
+            "status": {
+                "vida": 0,
+                "ataque": 0,
+                "armadura": 1203,
+                "evasao": 1924,
+                "critico": 0,
+                "aceleracao": 1924
+            },
+            "id": "nivel_50_undefined_31"
+        },
+        {
+            "nome": "Greaves of the Sacred Wind",
+            "nivel": 50,
+            "status": {
+                "vida": 0,
+                "ataque": 0,
+                "armadura": 1203,
+                "evasao": 3206,
+                "critico": 0,
+                "aceleracao": 1924
+            },
+            "id": "nivel_50_undefined_32"
+        },
+        {
+            "nome": "Cape of the Sacred Wind",
+            "nivel": 50,
+            "status": {
+                "vida": 0,
+                "ataque": 0,
+                "armadura": 0,
+                "evasao": 2565,
+                "critico": 1603,
+                "aceleracao": 2565
+            },
+            "id": "nivel_50_undefined_33"
+        },
+        {
+            "nome": "Gauntlets of the Sacred Wind",
+            "nivel": 50,
+            "status": {
+                "vida": 802,
+                "ataque": 802,
+                "armadura": 0,
+                "evasao": 0,
+                "critico": 1283,
+                "aceleracao": 2565
+            },
+            "id": "nivel_50_undefined_34"
+        },
+        {
+            "nome": "Helm of the Sacred Wind",
+            "nivel": 50,
+            "status": {
+                "vida": 1122,
+                "ataque": 1283,
+                "armadura": 1523,
+                "evasao": 1924,
+                "critico": 0,
+                "aceleracao": 0
+            },
+            "id": "nivel_50_undefined_35"
+        },
+        {
+            "nome": "Pauldrons of the Sacred Wind",
+            "nivel": 50,
+            "status": {
+                "vida": 401,
+                "ataque": 962,
+                "armadura": 1203,
+                "evasao": 0,
+                "critico": 2885,
+                "aceleracao": 0
+            },
+            "id": "nivel_50_undefined_36"
+        },
+        {
+            "nome": "Starlight Kimono",
+            "nivel": 50,
+            "status": {
+                "vida": 2659,
+                "ataque": 2364,
+                "armadura": 2069,
+                "evasao": 887,
+                "critico": 0,
+                "aceleracao": 0
+            },
+            "id": "nivel_50_undefined_37"
+        }
+    ],
+    "nivel_46": [
+        {
+            "nome": "Forged Bladecaster Armor",
+            "nivel": 46,
+            "status": {
+                "vida": 2345,
+                "ataque": 960,
+                "armadura": 1573,
+                "evasao": 960,
+                "critico": 800,
+                "aceleracao": 0
+            },
+            "id": "nivel_46_undefined_00"
+        },
+        {
+            "nome": "Forged Bladecaster Belt",
+            "nivel": 46,
+            "status": {
+                "vida": 0,
+                "ataque": 0,
+                "armadura": 800,
+                "evasao": 1280,
+                "critico": 0,
+                "aceleracao": 800
+            },
+            "id": "nivel_46_undefined_01"
+        },
+        {
+            "nome": "Forged Bladecaster Boots",
+            "nivel": 46,
+            "status": {
+                "vida": 0,
+                "ataque": 0,
+                "armadura": 880,
+                "evasao": 1972,
+                "critico": 0,
+                "aceleracao": 880
+            },
+            "id": "nivel_46_undefined_02"
+        },
+        {
+            "nome": "Forged Bladecaster Cape",
+            "nivel": 46,
+            "status": {
+                "vida": 0,
+                "ataque": 0,
+                "armadura": 0,
+                "evasao": 1706,
+                "critico": 1066,
+                "aceleracao": 1066
+            },
+            "id": "nivel_46_undefined_03"
+        },
+        {
+            "nome": "Forged Bladecaster Gloves",
+            "nivel": 46,
+            "status": {
+                "vida": 640,
+                "ataque": 640,
+                "armadura": 0,
+                "evasao": 0,
+                "critico": 533,
+                "aceleracao": 1386
+            },
+            "id": "nivel_46_undefined_04"
+        },
+        {
+            "nome": "Forged Bladecaster Helm",
+            "nivel": 46,
+            "status": {
+                "vida": 854,
+                "ataque": 533,
+                "armadura": 1013,
+                "evasao": 960,
+                "critico": 0,
+                "aceleracao": 0
+            },
+            "id": "nivel_46_undefined_05"
+        },
+        {
+            "nome": "Forged Bladecaster Shoulderplates",
+            "nivel": 46,
+            "status": {
+                "vida": 320,
+                "ataque": 480,
+                "armadura": 960,
+                "evasao": 0,
+                "critico": 1439,
+                "aceleracao": 0
+            },
+            "id": "nivel_46_undefined_06"
+        }
+    ],
+    "nivel_45": [
+        {
+            "nome": "Scale Slayer Armor Green",
+            "nivel": 45,
+            "status": {
+                "vida": 1694,
+                "ataque": 861,
+                "armadura": 1266,
+                "evasao": 636,
+                "critico": 654,
+                "aceleracao": 0
+            },
+            "id": "nivel_45_undefined_00"
+        },
+        {
+            "nome": "Scale Slayer Belt Green",
+            "nivel": 45,
+            "status": {
+                "vida": 0,
+                "ataque": 0,
+                "armadura": 562,
+                "evasao": 540,
+                "critico": 0,
+                "aceleracao": 669
+            },
+            "id": "nivel_45_undefined_01"
+        },
+        {
+            "nome": "Scale Slayer Greaves Green",
+            "nivel": 45,
+            "status": {
+                "vida": 0,
+                "ataque": 0,
+                "armadura": 604,
+                "evasao": 1360,
+                "critico": 0,
+                "aceleracao": 592
+            },
+            "id": "nivel_45_undefined_02"
+        },
+        {
+            "nome": "The Scale Slayer Companion Green",
+            "nivel": 45,
+            "status": {
+                "vida": 0,
+                "ataque": 0,
+                "armadura": 0,
+                "evasao": 0,
+                "critico": 0,
+                "aceleracao": 0
+            },
+            "id": "nivel_45_undefined_03"
+        },
+        {
+            "nome": "Scale Slayer Gauntlets Green",
+            "nivel": 45,
+            "status": {
+                "vida": 360,
+                "ataque": 427,
+                "armadura": 0,
+                "evasao": 0,
+                "critico": 387,
+                "aceleracao": 1186
+            },
+            "id": "nivel_45_undefined_04"
+        },
+        {
+            "nome": "Scale Slayer Shoulders Green",
+            "nivel": 45,
+            "status": {
+                "vida": 197,
+                "ataque": 393,
+                "armadura": 457,
+                "evasao": 0,
+                "critico": 1312,
+                "aceleracao": 0
+            },
+            "id": "nivel_45_undefined_05"
+        },
+        {
+            "nome": "Degore's Armor",
+            "nivel": 45,
+            "status": {
+                "vida": 1769,
+                "ataque": 786,
+                "armadura": 1376,
+                "evasao": 590,
+                "critico": 590,
+                "aceleracao": 0
+            },
+            "id": "nivel_45_undefined_06"
+        },
+        {
+            "nome": "Degore's Belt",
+            "nivel": 45,
+            "status": {
+                "vida": 0,
+                "ataque": 0,
+                "armadura": 590,
+                "evasao": 590,
+                "critico": 0,
+                "aceleracao": 590
+            },
+            "id": "nivel_45_undefined_07"
+        },
+        {
+            "nome": "Degore's Boots",
+            "nivel": 45,
+            "status": {
+                "vida": 0,
+                "ataque": 0,
+                "armadura": 590,
+                "evasao": 1376,
+                "critico": 0,
+                "aceleracao": 590
+            },
+            "id": "nivel_45_undefined_08"
+        },
+        {
+            "nome": "Degore's Cape",
+            "nivel": 45,
+            "status": {
+                "vida": 0,
+                "ataque": 0,
+                "armadura": 0,
+                "evasao": 786,
+                "critico": 786,
+                "aceleracao": 786
+            },
+            "id": "nivel_45_undefined_09"
+        },
+        {
+            "nome": "Degore's Gloves",
+            "nivel": 45,
+            "status": {
+                "
